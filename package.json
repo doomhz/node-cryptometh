@@ -1,7 +1,7 @@
 {
   "name": "node-cryptometh",
   "description": "Communicate with cryptomethd via JSON-RPC",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "lib/index.js",
   "keywords": [
     "cryptometh",
